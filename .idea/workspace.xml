@@ -10,10 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c70fa77-6c25-49b1-bee9-27660bbcc9d1" name="Default Changelist" comment="3">
+    <list default="true" id="7c70fa77-6c25-49b1-bee9-27660bbcc9d1" name="Default Changelist" comment="final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/my-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/my-styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pc.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pc.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -74,7 +73,11 @@
       <workItem from="1603108862675" duration="16127000" />
       <workItem from="1603135523928" duration="23000" />
       <workItem from="1603210695103" duration="71000" />
-      <workItem from="1603288299116" duration="827000" />
+      <workItem from="1603288299116" duration="922000" />
+      <workItem from="1603358696999" duration="967000" />
+      <workItem from="1603395719174" duration="724000" />
+      <workItem from="1603400740425" duration="21000" />
+      <workItem from="1603454349850" duration="134000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1603109122957</created>
@@ -104,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603135534681</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final">
+      <created>1603289136297</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603289136297</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,13 +136,18 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603135538265">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603359585145">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603135538265" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603359585145" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603289141940">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603289141940" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1603129816763">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
